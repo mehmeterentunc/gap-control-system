@@ -1,0 +1,13 @@
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\bin\Debug\GAPtest-Desktop.exe.config
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\bin\Debug\GAPtest-Desktop.exe
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\bin\Debug\GAPtest-Desktop.pdb
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest_Desktop.Properties.Resources.resources
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.exe
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest-Desktop.pdb
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest_Desktop.FormGCS.resources
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest_Desktop.FormLogin.resources
+C:\Users\mehme\Desktop\Projeler\GAPtest-Desktop\GAPtest-Desktop\obj\Debug\GAPtest_Desktop.FormChangePassword.resources
